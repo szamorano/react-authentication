@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/M%C3%BCnchen_Panorama.JPG/1024px-M%C3%BCnchen_Panorama.JPG",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"A new event","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/M%C3%BCnchen_Panorama.JPG/1024px-M%C3%BCnchen_Panorama.JPG","date":"2022-10-01","description":"Some awesome event!","id":"2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"}],"users":[{"email":"test@test.com","password":"$2a$12$72SpNORq.R1WJzIpmNIn6edp01kGlYRAmC3oyB.AwC0QY5qWCuh1C","id":"63a3c5de-8458-40fd-9d0f-0fad02cae433"},{"email":"test2@test.com","password":"$2a$12$42UmYZWisIm.5t3C5IK/n.YjNC5tQ742LT02Lv0zjbVltHlf/bpl.","id":"9d509626-aec2-4537-b3bb-6863b1802f39"}]}
